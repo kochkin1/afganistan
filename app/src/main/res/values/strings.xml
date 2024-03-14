@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">afganistan</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="afganistanAFG">AFG</string>
+    <string name="izrailILS">ILS</string>
+    <string name="armeniaISO">ISO</string>
+    <string name="vaticanEUR">EUR</string>
+
+    <string name="afganistan">Afganistan\afgani\Kabul</string>
+    <string name="izrail">Izrail\shekel\Ierusalim</string>
+    <string name="armenia">Armenia\dram\Erevan</string>
+    <string name="vatican">Vatican\euro\Vatican</string>
+
+    <string name="flag">flag</string>
+</resources>
